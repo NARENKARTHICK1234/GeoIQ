@@ -40,33 +40,29 @@ export const KpiCard: React.FC<KpiCardProps> = ({
   const finalIconColor = iconColor || colorMap[color] || 'text-cyan-400';
 
   return (
-    <div className="glass-panel glass-panel-hover p-4 relative overflow-hidden flex flex-col justify-between rounded-xl">
+    <div className="glass-panel glass-panel-hover p-3 relative overflow-hidden flex flex-col justify-between rounded-xl">
       {/* Background ambient glow corner */}
-      <div className="absolute -right-4 -top-4 w-16 h-16 bg-purple-600/10 rounded-full blur-xl pointer-events-none" />
+      <div className="absolute -right-4 -top-4 w-12 h-12 bg-purple-600/10 rounded-full blur-lg pointer-events-none" />
 
-      <div className="flex items-start justify-between">
-        <div>
-          <p className="text-[11px] font-medium text-slate-400 tracking-wide">{title}</p>
-          <h3 className="text-xl font-bold font-display text-white mt-1 tracking-tight">
+      <div className="flex items-start justify-between gap-1">
+        <div className="min-w-0 flex-1">
+          <p className="text-[10px] font-medium text-slate-400 tracking-wide truncate">{title}</p>
+          <h3 className="text-lg font-bold font-display text-white mt-0.5 tracking-tight truncate">
             {value}
           </h3>
         </div>
-        <div className="p-2 rounded-xl bg-purple-950/40 border border-purple-500/25 shadow-inner">
-          <Icon className={`w-4 h-4 ${finalIconColor}`} />
+        <div className="p-1.5 rounded-lg bg-purple-950/40 border border-purple-500/25 shadow-inner shrink-0">
+          <Icon className={`w-3.5 h-3.5 ${finalIconColor}`} />
         </div>
       </div>
 
       {change !== undefined && change !== '' && (
-        <div className="flex items-center gap-1.5 mt-3 pt-2 border-t border-purple-900/15 text-[10px]">
-          <span
-            className={`flex items-center font-semibold ${
-              isPositive ? 'text-emerald-400' : 'text-rose-400'
-            }`}
-          >
-            {isPositive ? <TrendingUp className="w-3 h-3 mr-0.5" /> : <TrendingDown className="w-3 h-3 mr-0.5" />}
+        <div className="flex items-center gap-1 mt-2 pt-1.5 border-t border-purple-900/15 text-[10px]">
+          <span className={`flex items-center gap-0.5 font-semibold shrink-0 ${isPositive ? 'text-emerald-400' : 'text-rose-400'}`}>
+            {isPositive ? <TrendingUp className="w-2.5 h-2.5" /> : <TrendingDown className="w-2.5 h-2.5" />}
             {change}
           </span>
-          <span className="text-slate-500 truncate">{changeLabel}</span>
+          <span className="text-slate-500 text-[9px] truncate">{changeLabel}</span>
         </div>
       )}
     </div>

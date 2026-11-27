@@ -90,12 +90,6 @@ export default function DashboardPage() {
 
   return (
     <div className="p-6 space-y-6 min-h-screen">
-      {/* Page header */}
-      <div>
-        <h1 className="text-2xl font-bold font-display text-white">Overview Dashboard</h1>
-        <p className="text-slate-400 text-sm mt-1">A complete geographic view of sales, stores, demand, and expansion opportunities.</p>
-      </div>
-
       {/* KPI Grid */}
       <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-3">
         {kpis.map((kpi) => (

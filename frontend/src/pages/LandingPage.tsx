@@ -136,7 +136,7 @@ export default function LandingPage() {
               <ParticleGlobe />
             </div>
             {/* Floating metric cards */}
-            <FloatingCard className="absolute top-8 right-0 w-48 z-20" delay={0.5}>
+            <FloatingCard className="absolute top-2 right-2 w-48 z-20" delay={0.5}>
               <div className="flex items-center gap-2 mb-2">
                 <TrendingUp className="w-4 h-4 text-emerald-400" />
                 <span className="text-xs text-slate-400">Sales Growth</span>
@@ -148,7 +148,7 @@ export default function LandingPage() {
                 ))}
               </div>
             </FloatingCard>
-            <FloatingCard className="absolute top-40 right-4 w-48 z-20" delay={0.65}>
+            <FloatingCard className="absolute top-48 right-0 w-48 z-20" delay={0.65}>
               <div className="flex items-center gap-2 mb-2">
                 <MapPin className="w-4 h-4 text-purple-400" />
                 <span className="text-xs text-slate-400">Expansion Opportunities</span>
@@ -156,7 +156,7 @@ export default function LandingPage() {
               <p className="text-3xl font-bold text-white">32</p>
               <p className="text-xs text-slate-500 mt-1">High-demand, low-presence areas</p>
             </FloatingCard>
-            <FloatingCard className="absolute bottom-20 right-2 w-48 z-20" delay={0.8}>
+            <FloatingCard className="absolute bottom-8 right-2 w-48 z-20" delay={0.8}>
               <div className="flex items-center gap-2 mb-2">
                 <Target className="w-4 h-4 text-cyan-400" />
                 <span className="text-xs text-slate-400">Market Coverage</span>
