@@ -1,0 +1,118 @@
+location_id,country,state,district,city,postal_code,latitude,longitude,region,city_category,urban_rural_type,population_estimate,accessibility_score
+LOC-0001,India,Tamil Nadu,Chennai,Chennai,366977,13.0827,80.2707,South,Metro,Urban,10971108,0.96
+LOC-0002,India,Tamil Nadu,Coimbatore,Coimbatore,352901,11.0168,76.9558,South,Tier 1,Urban,2165000,0.88
+LOC-0003,India,Tamil Nadu,Madurai,Madurai,354209,9.9252,78.1198,South,Tier 2,Semi-Urban,1561000,0.84
+LOC-0004,India,Tamil Nadu,Tiruchirappalli,Tiruchirappalli,357695,10.7905,78.7047,South,Tier 2,Semi-Urban,1022000,0.84
+LOC-0005,India,Tamil Nadu,Salem,Salem,357766,11.6643,78.146,South,Tier 2,Semi-Urban,918000,0.75
+LOC-0006,India,Tamil Nadu,Tirunelveli,Tirunelveli,350697,8.7139,77.7567,South,Tier 3,Emerging,498000,0.7
+LOC-0007,India,Tamil Nadu,Erode,Erode,355833,11.341,77.7172,South,Tier 3,Emerging,521000,0.78
+LOC-0008,India,Tamil Nadu,Vellore,Vellore,363230,12.9165,79.1325,South,Tier 3,Emerging,485000,0.74
+LOC-0009,India,Tamil Nadu,Thanjavur,Thanjavur,358987,10.787,79.1378,South,Tier 3,Emerging,322000,0.68
+LOC-0010,India,Tamil Nadu,Dindigul,Dindigul,354675,10.3673,77.9803,South,Tier 3,Emerging,292000,0.69
+LOC-0011,India,Karnataka,Bengaluru,Bengaluru,358727,12.9716,77.5946,South,Metro,Urban,12327000,0.95
+LOC-0012,India,Karnataka,Mysuru,Mysuru,354509,12.2958,76.6394,South,Tier 1,Urban,1288000,0.85
+LOC-0013,India,Karnataka,Hubballi-Dharwad,Hubballi-Dharwad,356101,15.3647,75.124,South,Tier 2,Semi-Urban,1150000,0.79
+LOC-0014,India,Karnataka,Mangaluru,Mangaluru,350396,12.9141,74.856,South,Tier 2,Semi-Urban,725000,0.78
+LOC-0015,India,Karnataka,Belagavi,Belagavi,355192,15.8497,74.4977,South,Tier 2,Semi-Urban,685000,0.7
+LOC-0016,India,Karnataka,Kalaburagi,Kalaburagi,365162,17.3297,76.8343,South,Tier 3,Emerging,543000,0.68
+LOC-0017,India,Karnataka,Davanagere,Davanagere,356694,14.4644,75.9218,South,Tier 3,Emerging,475000,0.68
+LOC-0018,India,Karnataka,Ballari,Ballari,361043,15.1394,76.9214,South,Tier 3,Emerging,450000,0.7
+LOC-0019,India,Karnataka,Shivamogga,Shivamogga,354564,13.9299,75.5681,South,Tier 3,Emerging,360000,0.69
+LOC-0020,India,Karnataka,Tumakuru,Tumakuru,358027,13.3379,77.1173,South,Tier 3,Emerging,335000,0.69
+LOC-0021,India,Kerala,Kochi,Kochi,348664,9.9312,76.2673,South,Tier 1,Urban,2118000,0.95
+LOC-0022,India,Kerala,Thiruvananthapuram,Thiruvananthapuram,347858,8.5241,76.9366,South,Tier 1,Urban,1680000,0.88
+LOC-0023,India,Kerala,Kozhikode,Kozhikode,349858,11.2588,75.7804,South,Tier 2,Semi-Urban,1050000,0.83
+LOC-0024,India,Kerala,Thrissur,Thrissur,349698,10.5276,76.2144,South,Tier 2,Semi-Urban,825000,0.77
+LOC-0025,India,Kerala,Kollam,Kollam,347628,8.8932,76.6141,South,Tier 3,Emerging,420000,0.74
+LOC-0026,India,Kerala,Kannur,Kannur,349860,11.8745,75.3704,South,Tier 3,Emerging,390000,0.75
+LOC-0027,India,Kerala,Alappuzha,Alappuzha,348012,9.4981,76.3388,South,Tier 3,Emerging,345000,0.71
+LOC-0028,India,Kerala,Palakkad,Palakkad,351537,10.7867,76.6548,South,Tier 3,Emerging,310000,0.73
+LOC-0029,India,Andhra Pradesh,Visakhapatnam,Visakhapatnam,385029,17.6868,83.2185,South,Tier 1,Urban,2358000,0.87
+LOC-0030,India,Andhra Pradesh,Vijayawada,Vijayawada,374956,16.5062,80.648,South,Tier 1,Urban,1491000,0.84
+LOC-0031,India,Andhra Pradesh,Guntur,Guntur,373922,16.3067,80.4365,South,Tier 2,Semi-Urban,873000,0.76
+LOC-0032,India,Andhra Pradesh,Nellore,Nellore,368844,14.4426,79.9865,South,Tier 2,Semi-Urban,600000,0.81
+LOC-0033,India,Andhra Pradesh,Kurnool,Kurnool,365768,15.8281,78.0373,South,Tier 2,Semi-Urban,520000,0.73
+LOC-0034,India,Andhra Pradesh,Rajahmundry,Rajahmundry,379413,17.0005,81.804,South,Tier 3,Emerging,480000,0.71
+LOC-0035,India,Andhra Pradesh,Tirupati,Tirupati,365515,13.6288,79.4192,South,Tier 2,Semi-Urban,460000,0.84
+LOC-0036,India,Andhra Pradesh,Kakinada,Kakinada,380720,16.9891,82.2475,South,Tier 3,Emerging,440000,0.69
+LOC-0037,India,Andhra Pradesh,Anantapur,Anantapur,362165,14.6819,77.6006,South,Tier 3,Emerging,360000,0.71
+LOC-0038,India,Telangana,Hyderabad,Hyderabad,370230,17.385,78.4867,South,Metro,Urban,10534000,0.89
+LOC-0039,India,Telangana,Warangal,Warangal,374720,17.9689,79.5941,South,Tier 2,Semi-Urban,950000,0.75
+LOC-0040,India,Telangana,Nizamabad,Nizamabad,371627,18.6725,78.0941,South,Tier 3,Emerging,380000,0.72
+LOC-0041,India,Telangana,Karimnagar,Karimnagar,374263,18.4386,79.1288,South,Tier 3,Emerging,360000,0.75
+LOC-0042,India,Telangana,Khammam,Khammam,374948,17.2473,80.1514,South,Tier 3,Emerging,330000,0.71
+LOC-0043,India,Telangana,Ramagundam,Ramagundam,376049,18.7557,79.5126,South,Tier 3,Emerging,295000,0.68
+LOC-0044,India,Telangana,Mahbubnagar,Mahbubnagar,367451,16.7488,77.9846,South,Tier 3,Emerging,260000,0.66
+LOC-0045,India,Maharashtra,Mumbai,Mumbai,356785,19.076,72.8777,West,Metro,Urban,20961000,0.94
+LOC-0046,India,Maharashtra,Pune,Pune,358610,18.5204,73.8567,West,Metro,Urban,6987000,0.92
+LOC-0047,India,Maharashtra,Nagpur,Nagpur,379556,21.1458,79.0882,West,Tier 1,Urban,2893000,0.85
+LOC-0048,India,Maharashtra,Nashik,Nashik,361364,19.9975,73.7898,West,Tier 2,Semi-Urban,1890000,0.86
+LOC-0049,India,Maharashtra,Chhatrapati Sambhajinagar,Chhatrapati Sambhajinagar,365782,19.8762,75.3433,West,Tier 2,Semi-Urban,1450000,0.79
+LOC-0050,India,Maharashtra,Solapur,Solapur,363039,17.6599,75.9064,West,Tier 2,Semi-Urban,1120000,0.69
+LOC-0051,India,Maharashtra,Thane,Thane,357370,19.2183,72.9781,West,Metro,Urban,2200000,0.94
+LOC-0052,India,Maharashtra,Amravati,Amravati,375120,20.932,77.7523,West,Tier 3,Emerging,720000,0.7
+LOC-0053,India,Maharashtra,Kolhapur,Kolhapur,356139,16.705,74.2433,West,Tier 2,Semi-Urban,650000,0.75
+LOC-0054,India,Maharashtra,Navi Mumbai,Navi Mumbai,357155,19.033,73.0297,West,Metro,Urban,1450000,0.94
+LOC-0055,India,Maharashtra,Jalgaon,Jalgaon,368703,21.0077,75.5626,West,Tier 3,Emerging,510000,0.73
+LOC-0056,India,Gujarat,Ahmedabad,Ahmedabad,363759,23.0225,72.5714,West,Metro,Urban,8450000,0.97
+LOC-0057,India,Gujarat,Surat,Surat,360833,21.1702,72.8311,West,Metro,Urban,6564000,0.89
+LOC-0058,India,Gujarat,Vadodara,Vadodara,364158,22.3072,73.1812,West,Tier 1,Urban,2240000,0.87
+LOC-0059,India,Gujarat,Rajkot,Rajkot,357014,22.3039,70.8022,West,Tier 1,Urban,1650000,0.85
+LOC-0060,India,Gujarat,Bhavnagar,Bhavnagar,359984,21.7645,72.1519,West,Tier 2,Semi-Urban,710000,0.78
+LOC-0061,India,Gujarat,Jamnagar,Jamnagar,355114,22.4707,70.0577,West,Tier 2,Semi-Urban,680000,0.75
+LOC-0062,India,Gujarat,Gandhinagar,Gandhinagar,364341,23.2156,72.6369,West,Tier 2,Semi-Urban,420000,0.86
+LOC-0063,India,Gujarat,Junagadh,Junagadh,354418,21.5222,70.4579,West,Tier 3,Emerging,380000,0.68
+LOC-0064,India,Gujarat,Anand,Anand,363915,22.5645,72.9289,West,Tier 3,Emerging,340000,0.75
+LOC-0065,India,Rajasthan,Jaipur,Jaipur,381186,26.9124,75.7873,North,Tier 1,Urban,3910000,0.92
+LOC-0066,India,Rajasthan,Jodhpur,Jodhpur,371550,26.2389,73.0243,North,Tier 2,Semi-Urban,1400000,0.85
+LOC-0067,India,Rajasthan,Kota,Kota,378022,25.2138,75.8648,North,Tier 2,Semi-Urban,1180000,0.8
+LOC-0068,India,Rajasthan,Bikaner,Bikaner,375981,28.0229,73.3119,North,Tier 2,Semi-Urban,740000,0.77
+LOC-0069,India,Rajasthan,Ajmer,Ajmer,376819,26.4499,74.6399,North,Tier 2,Semi-Urban,620000,0.77
+LOC-0070,India,Rajasthan,Udaipur,Udaipur,370308,24.5854,73.7125,North,Tier 2,Semi-Urban,560000,0.81
+LOC-0071,India,Rajasthan,Bhilwara,Bhilwara,374575,25.3407,74.6313,North,Tier 3,Emerging,440000,0.73
+LOC-0072,India,Rajasthan,Alwar,Alwar,385009,27.553,76.6346,North,Tier 3,Emerging,410000,0.8
+LOC-0073,India,Delhi,Central Delhi,Central Delhi,388854,28.6139,77.209,North,Metro,Urban,2800000,0.98
+LOC-0074,India,Delhi,South Delhi,South Delhi,388681,28.5434,77.1983,North,Metro,Urban,3400000,0.99
+LOC-0075,India,Delhi,North Delhi,North Delhi,388949,28.7188,77.1706,North,Metro,Urban,2950000,0.84
+LOC-0076,India,Delhi,East Delhi,East Delhi,389142,28.6279,77.2954,North,Metro,Urban,2750000,0.93
+LOC-0077,India,Delhi,West Delhi,West Delhi,388651,28.6534,77.115,North,Metro,Urban,3100000,0.93
+LOC-0078,India,Delhi,Dwarka,Dwarka,388322,28.5921,77.046,North,Metro,Urban,1600000,0.91
+LOC-0079,India,Delhi,Rohini,Rohini,388668,28.7495,77.0565,North,Metro,Urban,1850000,0.9
+LOC-0080,India,Delhi,Noida Extension (NCR),Noida Extension (NCR),389466,28.5833,77.4333,North,Metro,Urban,1200000,0.82
+LOC-0081,India,Delhi,Gurugram DLF (NCR),Gurugram DLF (NCR),387998,28.4595,77.0266,North,Metro,Urban,1950000,0.95
+LOC-0082,India,Uttar Pradesh,Lucknow,Lucknow,396532,26.8467,80.9462,North,Tier 1,Urban,3650000,0.91
+LOC-0083,India,Uttar Pradesh,Kanpur,Kanpur,393895,26.4499,80.3319,North,Tier 1,Urban,3180000,0.88
+LOC-0084,India,Uttar Pradesh,Ghaziabad,Ghaziabad,389699,28.6692,77.4538,North,Metro,Urban,2370000,0.89
+LOC-0085,India,Uttar Pradesh,Agra,Agra,388377,27.1767,78.0081,North,Tier 1,Urban,2040000,0.8
+LOC-0086,India,Uttar Pradesh,Varanasi,Varanasi,399556,25.3176,82.9739,North,Tier 1,Urban,1620000,0.83
+LOC-0087,India,Uttar Pradesh,Prayagraj,Prayagraj,396410,25.4358,81.8463,North,Tier 2,Semi-Urban,1430000,0.83
+LOC-0088,India,Uttar Pradesh,Meerut,Meerut,391088,28.9845,77.7064,North,Tier 2,Semi-Urban,1520000,0.82
+LOC-0089,India,Uttar Pradesh,Bareilly,Bareilly,395025,28.367,79.4304,North,Tier 2,Semi-Urban,1020000,0.72
+LOC-0090,India,Uttar Pradesh,Aligarh,Aligarh,390058,27.8974,78.088,North,Tier 2,Semi-Urban,980000,0.75
+LOC-0091,India,Uttar Pradesh,Moradabad,Moradabad,393989,28.835,78.7732,North,Tier 2,Semi-Urban,950000,0.72
+LOC-0092,India,Uttar Pradesh,Gorakhpur,Gorakhpur,403640,26.7606,83.3732,North,Tier 2,Semi-Urban,820000,0.76
+LOC-0093,India,Uttar Pradesh,Noida,Noida,389244,28.5355,77.391,North,Metro,Urban,1100000,0.93
+LOC-0094,India,West Bengal,Kolkata,Kolkata,410236,22.5726,88.3639,East,Metro,Urban,14850000,0.95
+LOC-0095,India,West Bengal,Howrah,Howrah,409982,22.5958,88.2636,East,Tier 1,Urban,1320000,0.86
+LOC-0096,India,West Bengal,Durgapur,Durgapur,408976,23.5204,87.3119,East,Tier 2,Semi-Urban,670000,0.76
+LOC-0097,India,West Bengal,Asansol,Asansol,408205,23.6739,86.9524,East,Tier 2,Semi-Urban,640000,0.77
+LOC-0098,India,West Bengal,Siliguri,Siliguri,418640,26.7271,88.3953,East,Tier 2,Semi-Urban,590000,0.83
+LOC-0099,India,West Bengal,Bardhaman,Bardhaman,410049,23.2324,87.8615,East,Tier 3,Emerging,380000,0.72
+LOC-0100,India,West Bengal,Kharagpur,Kharagpur,406388,22.346,87.232,East,Tier 3,Emerging,330000,0.73
+LOC-0101,India,West Bengal,Haldia,Haldia,408342,22.0667,88.0698,East,Tier 3,Emerging,260000,0.71
+LOC-0102,India,Odisha,Bhubaneswar,Bhubaneswar,398065,20.2961,85.8245,East,Tier 1,Urban,1210000,0.87
+LOC-0103,India,Odisha,Cuttack,Cuttack,398573,20.4625,85.8828,East,Tier 2,Semi-Urban,730000,0.8
+LOC-0104,India,Odisha,Rourkela,Rourkela,399081,22.2604,84.8536,East,Tier 2,Semi-Urban,620000,0.75
+LOC-0105,India,Odisha,Berhampur,Berhampur,393012,19.315,84.7941,East,Tier 3,Emerging,410000,0.72
+LOC-0106,India,Odisha,Sambalpur,Sambalpur,394877,21.4669,83.9812,East,Tier 3,Emerging,360000,0.72
+LOC-0107,India,Odisha,Puri,Puri,397120,19.8135,85.8312,East,Tier 3,Emerging,240000,0.85
+LOC-0108,India,Odisha,Balasore,Balasore,403727,21.4934,86.9135,East,Tier 3,Emerging,220000,0.7
+LOC-0109,India,Madhya Pradesh,Indore,Indore,373012,22.7196,75.8577,Central,Tier 1,Urban,3250000,0.92
+LOC-0110,India,Madhya Pradesh,Bhopal,Bhopal,378757,23.2599,77.4126,Central,Tier 1,Urban,2430000,0.87
+LOC-0111,India,Madhya Pradesh,Jabalpur,Jabalpur,386322,23.1815,79.9864,Central,Tier 2,Semi-Urban,1480000,0.72
+LOC-0112,India,Madhya Pradesh,Gwalior,Gwalior,386985,26.2183,78.1828,Central,Tier 2,Semi-Urban,1290000,0.79
+LOC-0113,India,Madhya Pradesh,Ujjain,Ujjain,373718,23.1765,75.7885,Central,Tier 2,Semi-Urban,610000,0.76
+LOC-0114,India,Madhya Pradesh,Sagar,Sagar,383890,23.8388,78.7378,Central,Tier 3,Emerging,390000,0.77
+LOC-0115,India,Madhya Pradesh,Dewas,Dewas,374095,22.9676,76.0534,Central,Tier 3,Emerging,340000,0.73
+LOC-0116,India,Madhya Pradesh,Satna,Satna,391697,24.6005,80.8322,Central,Tier 3,Emerging,320000,0.7
+LOC-0117,India,Madhya Pradesh,Ratlam,Ratlam,371773,23.3315,75.0367,Central,Tier 3,Emerging,310000,0.71

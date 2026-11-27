@@ -1,0 +1,14 @@
+# Git ignore for GeoIQ project
+node_modules/
+frontend/dist/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite
+uploads/
+.DS_Store
+*.log
+.pytest_cache/

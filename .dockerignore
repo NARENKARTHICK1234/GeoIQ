@@ -1,0 +1,14 @@
+frontend/node_modules
+frontend/dist
+**/__pycache__
+**/*.pyc
+.venv
+venv
+.env
+*.log
+.git
+.pytest_cache
+*.db
+*.sqlite
+uploads/
+.DS_Store

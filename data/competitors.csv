@@ -1,0 +1,295 @@
+competitor_id,competitor_name,location_id,latitude,longitude,competitor_type,estimated_capacity
+CMP-0001,ApexRetail - Chennai Unit 1,LOC-0001,13.04238,80.2589,Specialty Retail,22000
+CMP-0002,PrimeBazaar - Chennai Unit 2,LOC-0001,13.10992,80.27231,Superstore,16000
+CMP-0003,ApexRetail - Chennai Unit 3,LOC-0001,13.05576,80.25282,Hypermarket,22000
+CMP-0004,PrimeBazaar - Chennai Unit 4,LOC-0001,13.09969,80.25244,Hypermarket,22000
+CMP-0005,ApexRetail - Coimbatore Unit 1,LOC-0002,11.02221,76.95694,Discount Hub,16000
+CMP-0006,MetroSphere - Coimbatore Unit 2,LOC-0002,11.00051,77.0094,Superstore,12000
+CMP-0007,UrbanTrend - Madurai Unit 1,LOC-0003,9.94105,78.06917,Superstore,22000
+CMP-0008,MetroSphere - Tiruchirappalli Unit 1,LOC-0004,10.79516,78.68816,Hypermarket,16000
+CMP-0009,MetroSphere - Tiruchirappalli Unit 2,LOC-0004,10.81181,78.68489,Discount Hub,16000
+CMP-0010,NexusMart - Salem Unit 1,LOC-0005,11.66143,78.15862,Specialty Retail,12000
+CMP-0011,MetroSphere - Tirunelveli Unit 1,LOC-0006,8.73554,77.72669,Hypermarket,8000
+CMP-0012,OmniHub - Tirunelveli Unit 2,LOC-0006,8.70554,77.74483,Discount Hub,16000
+CMP-0013,PrimeBazaar - Erode Unit 1,LOC-0007,11.32467,77.76134,Specialty Retail,22000
+CMP-0014,OmniHub - Erode Unit 2,LOC-0007,11.35112,77.68568,Hypermarket,22000
+CMP-0015,ApexRetail - Vellore Unit 1,LOC-0008,12.93945,79.18555,Specialty Retail,8000
+CMP-0016,UrbanTrend - Vellore Unit 2,LOC-0008,12.94231,79.09452,Discount Hub,8000
+CMP-0017,PrimeBazaar - Thanjavur Unit 1,LOC-0009,10.77489,79.16947,Superstore,16000
+CMP-0018,ZenithStores - Thanjavur Unit 2,LOC-0009,10.76931,79.1489,Hypermarket,16000
+CMP-0019,MetroSphere - Dindigul Unit 1,LOC-0010,10.38667,77.95713,Hypermarket,16000
+CMP-0020,OmniHub - Dindigul Unit 2,LOC-0010,10.36581,77.89927,Specialty Retail,22000
+CMP-0021,ZenithStores - Bengaluru Unit 1,LOC-0011,12.94599,77.58829,Specialty Retail,12000
+CMP-0022,ApexRetail - Bengaluru Unit 2,LOC-0011,12.94041,77.63541,Discount Hub,22000
+CMP-0023,UrbanTrend - Bengaluru Unit 3,LOC-0011,12.93585,77.5836,Superstore,16000
+CMP-0024,ZenithStores - Bengaluru Unit 4,LOC-0011,12.97487,77.63063,Hypermarket,16000
+CMP-0025,MetroSphere - Bengaluru Unit 5,LOC-0011,12.9357,77.62368,Superstore,22000
+CMP-0026,PrimeBazaar - Bengaluru Unit 6,LOC-0011,12.97186,77.57006,Specialty Retail,22000
+CMP-0027,ZenithStores - Mysuru Unit 1,LOC-0012,12.30735,76.64438,Superstore,22000
+CMP-0028,PrimeBazaar - Mysuru Unit 2,LOC-0012,12.28079,76.64115,Superstore,8000
+CMP-0029,MetroSphere - Mysuru Unit 3,LOC-0012,12.28617,76.64224,Specialty Retail,8000
+CMP-0030,UrbanTrend - Hubballi-Dharwad Unit 1,LOC-0013,15.38125,75.16365,Specialty Retail,12000
+CMP-0031,ApexRetail - Mangaluru Unit 1,LOC-0014,12.88315,74.90933,Hypermarket,8000
+CMP-0032,ZenithStores - Belagavi Unit 1,LOC-0015,15.8009,74.49391,Hypermarket,22000
+CMP-0033,UrbanTrend - Kalaburagi Unit 1,LOC-0016,17.34441,76.84132,Superstore,22000
+CMP-0034,ZenithStores - Davanagere Unit 1,LOC-0017,14.44883,75.9166,Superstore,12000
+CMP-0035,UrbanTrend - Ballari Unit 1,LOC-0018,15.12707,76.90667,Hypermarket,8000
+CMP-0036,PrimeBazaar - Ballari Unit 2,LOC-0018,15.16064,76.93033,Discount Hub,12000
+CMP-0037,OmniHub - Tumakuru Unit 1,LOC-0020,13.32058,77.13979,Discount Hub,8000
+CMP-0038,OmniHub - Tumakuru Unit 2,LOC-0020,13.34558,77.13762,Superstore,8000
+CMP-0039,ApexRetail - Kochi Unit 1,LOC-0021,9.94694,76.24658,Discount Hub,16000
+CMP-0040,PrimeBazaar - Kochi Unit 2,LOC-0021,9.9172,76.28598,Discount Hub,22000
+CMP-0041,PrimeBazaar - Kochi Unit 3,LOC-0021,9.94646,76.26678,Discount Hub,12000
+CMP-0042,PrimeBazaar - Thiruvananthapuram Unit 1,LOC-0022,8.52703,76.96854,Discount Hub,22000
+CMP-0043,MetroSphere - Thiruvananthapuram Unit 2,LOC-0022,8.50931,76.95028,Superstore,16000
+CMP-0044,PrimeBazaar - Thiruvananthapuram Unit 3,LOC-0022,8.51905,76.93116,Discount Hub,12000
+CMP-0045,MetroSphere - Thiruvananthapuram Unit 4,LOC-0022,8.55157,76.95724,Discount Hub,8000
+CMP-0046,MetroSphere - Kozhikode Unit 1,LOC-0023,11.27914,75.81304,Superstore,16000
+CMP-0047,MetroSphere - Kozhikode Unit 2,LOC-0023,11.25933,75.79745,Specialty Retail,8000
+CMP-0048,ApexRetail - Kozhikode Unit 3,LOC-0023,11.25104,75.7885,Superstore,12000
+CMP-0049,UrbanTrend - Thrissur Unit 1,LOC-0024,10.52435,76.21682,Superstore,12000
+CMP-0050,NexusMart - Thrissur Unit 2,LOC-0024,10.54248,76.19394,Discount Hub,22000
+CMP-0051,OmniHub - Kollam Unit 1,LOC-0025,8.94551,76.58895,Discount Hub,22000
+CMP-0052,ZenithStores - Palakkad Unit 1,LOC-0028,10.75635,76.68375,Hypermarket,22000
+CMP-0053,NexusMart - Visakhapatnam Unit 1,LOC-0029,17.70659,83.2341,Specialty Retail,16000
+CMP-0054,PrimeBazaar - Visakhapatnam Unit 2,LOC-0029,17.70251,83.21819,Discount Hub,22000
+CMP-0055,OmniHub - Visakhapatnam Unit 3,LOC-0029,17.66437,83.2204,Superstore,22000
+CMP-0056,MetroSphere - Vijayawada Unit 1,LOC-0030,16.48927,80.67238,Discount Hub,22000
+CMP-0057,NexusMart - Vijayawada Unit 2,LOC-0030,16.50252,80.62736,Discount Hub,16000
+CMP-0058,UrbanTrend - Guntur Unit 1,LOC-0031,16.29867,80.44682,Discount Hub,12000
+CMP-0059,PrimeBazaar - Guntur Unit 2,LOC-0031,16.29261,80.41594,Discount Hub,12000
+CMP-0060,OmniHub - Guntur Unit 3,LOC-0031,16.31279,80.44262,Hypermarket,22000
+CMP-0061,OmniHub - Nellore Unit 1,LOC-0032,14.42993,79.97472,Hypermarket,8000
+CMP-0062,UrbanTrend - Nellore Unit 2,LOC-0032,14.4484,79.9503,Discount Hub,12000
+CMP-0063,PrimeBazaar - Nellore Unit 3,LOC-0032,14.40741,79.96854,Discount Hub,12000
+CMP-0064,MetroSphere - Kurnool Unit 1,LOC-0033,15.82276,78.04507,Discount Hub,16000
+CMP-0065,MetroSphere - Tirupati Unit 1,LOC-0035,13.66568,79.44064,Specialty Retail,22000
+CMP-0066,MetroSphere - Tirupati Unit 2,LOC-0035,13.6248,79.41872,Discount Hub,16000
+CMP-0067,NexusMart - Anantapur Unit 1,LOC-0037,14.65684,77.60014,Hypermarket,16000
+CMP-0068,UrbanTrend - Hyderabad Unit 1,LOC-0038,17.37778,78.49477,Hypermarket,8000
+CMP-0069,PrimeBazaar - Hyderabad Unit 2,LOC-0038,17.36432,78.49968,Hypermarket,12000
+CMP-0070,ApexRetail - Hyderabad Unit 3,LOC-0038,17.42332,78.48398,Hypermarket,12000
+CMP-0071,ApexRetail - Hyderabad Unit 4,LOC-0038,17.39504,78.50395,Superstore,22000
+CMP-0072,UrbanTrend - Hyderabad Unit 5,LOC-0038,17.37497,78.4923,Hypermarket,12000
+CMP-0073,UrbanTrend - Warangal Unit 1,LOC-0039,17.96921,79.59654,Specialty Retail,16000
+CMP-0074,ApexRetail - Warangal Unit 2,LOC-0039,17.94957,79.59471,Hypermarket,12000
+CMP-0075,NexusMart - Nizamabad Unit 1,LOC-0040,18.68495,78.13038,Hypermarket,16000
+CMP-0076,UrbanTrend - Karimnagar Unit 1,LOC-0041,18.46258,79.18263,Discount Hub,22000
+CMP-0077,UrbanTrend - Karimnagar Unit 2,LOC-0041,18.41942,79.15061,Superstore,8000
+CMP-0078,UrbanTrend - Khammam Unit 1,LOC-0042,17.25188,80.20615,Superstore,8000
+CMP-0079,UrbanTrend - Khammam Unit 2,LOC-0042,17.22709,80.13041,Specialty Retail,8000
+CMP-0080,PrimeBazaar - Ramagundam Unit 1,LOC-0043,18.74072,79.4595,Hypermarket,16000
+CMP-0081,OmniHub - Ramagundam Unit 2,LOC-0043,18.74256,79.49362,Discount Hub,16000
+CMP-0082,NexusMart - Mumbai Unit 1,LOC-0045,19.07976,72.88624,Discount Hub,22000
+CMP-0083,NexusMart - Mumbai Unit 2,LOC-0045,19.1229,72.90146,Discount Hub,16000
+CMP-0084,UrbanTrend - Mumbai Unit 3,LOC-0045,19.06158,72.85524,Discount Hub,12000
+CMP-0085,ZenithStores - Mumbai Unit 4,LOC-0045,19.0883,72.84469,Superstore,16000
+CMP-0086,OmniHub - Mumbai Unit 5,LOC-0045,19.12179,72.90719,Discount Hub,22000
+CMP-0087,ZenithStores - Mumbai Unit 6,LOC-0045,19.06427,72.83487,Specialty Retail,16000
+CMP-0088,PrimeBazaar - Pune Unit 1,LOC-0046,18.55425,73.85384,Hypermarket,16000
+CMP-0089,ZenithStores - Pune Unit 2,LOC-0046,18.55135,73.81684,Superstore,22000
+CMP-0090,OmniHub - Pune Unit 3,LOC-0046,18.50542,73.85683,Discount Hub,16000
+CMP-0091,NexusMart - Pune Unit 4,LOC-0046,18.52157,73.84545,Discount Hub,16000
+CMP-0092,ApexRetail - Pune Unit 5,LOC-0046,18.53597,73.83001,Discount Hub,12000
+CMP-0093,PrimeBazaar - Nagpur Unit 1,LOC-0047,21.14224,79.09121,Specialty Retail,16000
+CMP-0094,MetroSphere - Nagpur Unit 2,LOC-0047,21.15866,79.10599,Specialty Retail,8000
+CMP-0095,OmniHub - Nagpur Unit 3,LOC-0047,21.11768,79.04985,Superstore,8000
+CMP-0096,UrbanTrend - Nashik Unit 1,LOC-0048,20.02944,73.79811,Discount Hub,22000
+CMP-0097,PrimeBazaar - Chhatrapati Sambhajinagar Unit 1,LOC-0049,19.85749,75.38208,Superstore,22000
+CMP-0098,UrbanTrend - Chhatrapati Sambhajinagar Unit 2,LOC-0049,19.87909,75.37278,Discount Hub,22000
+CMP-0099,PrimeBazaar - Chhatrapati Sambhajinagar Unit 3,LOC-0049,19.87789,75.39482,Hypermarket,8000
+CMP-0100,ApexRetail - Solapur Unit 1,LOC-0050,17.70378,75.90018,Discount Hub,12000
+CMP-0101,MetroSphere - Solapur Unit 2,LOC-0050,17.68419,75.92253,Specialty Retail,22000
+CMP-0102,ZenithStores - Thane Unit 1,LOC-0051,19.25252,72.95398,Specialty Retail,16000
+CMP-0103,UrbanTrend - Thane Unit 2,LOC-0051,19.23545,73.00456,Discount Hub,16000
+CMP-0104,MetroSphere - Thane Unit 3,LOC-0051,19.17433,72.94852,Specialty Retail,12000
+CMP-0105,NexusMart - Thane Unit 4,LOC-0051,19.16732,72.97136,Superstore,16000
+CMP-0106,NexusMart - Thane Unit 5,LOC-0051,19.23624,73.01566,Superstore,12000
+CMP-0107,ApexRetail - Thane Unit 6,LOC-0051,19.22015,73.01882,Discount Hub,16000
+CMP-0108,OmniHub - Amravati Unit 1,LOC-0052,20.8975,77.70972,Specialty Retail,8000
+CMP-0109,PrimeBazaar - Amravati Unit 2,LOC-0052,20.93061,77.7619,Superstore,16000
+CMP-0110,MetroSphere - Kolhapur Unit 1,LOC-0053,16.70418,74.19161,Superstore,16000
+CMP-0111,UrbanTrend - Navi Mumbai Unit 1,LOC-0054,19.03077,72.99709,Superstore,16000
+CMP-0112,NexusMart - Navi Mumbai Unit 2,LOC-0054,19.04974,73.03886,Hypermarket,16000
+CMP-0113,UrbanTrend - Navi Mumbai Unit 3,LOC-0054,19.0095,73.01685,Superstore,22000
+CMP-0114,NexusMart - Navi Mumbai Unit 4,LOC-0054,19.00652,73.02813,Hypermarket,16000
+CMP-0115,ZenithStores - Jalgaon Unit 1,LOC-0055,21.03158,75.53796,Discount Hub,16000
+CMP-0116,NexusMart - Ahmedabad Unit 1,LOC-0056,23.0351,72.55814,Specialty Retail,22000
+CMP-0117,NexusMart - Ahmedabad Unit 2,LOC-0056,23.00268,72.56872,Hypermarket,22000
+CMP-0118,ZenithStores - Ahmedabad Unit 3,LOC-0056,22.99662,72.55756,Hypermarket,8000
+CMP-0119,ApexRetail - Ahmedabad Unit 4,LOC-0056,22.99255,72.62052,Superstore,16000
+CMP-0120,NexusMart - Ahmedabad Unit 5,LOC-0056,23.02338,72.55391,Superstore,8000
+CMP-0121,OmniHub - Surat Unit 1,LOC-0057,21.17555,72.82829,Superstore,22000
+CMP-0122,ZenithStores - Surat Unit 2,LOC-0057,21.16468,72.84645,Discount Hub,16000
+CMP-0123,PrimeBazaar - Surat Unit 3,LOC-0057,21.18914,72.81784,Discount Hub,16000
+CMP-0124,OmniHub - Surat Unit 4,LOC-0057,21.1558,72.82422,Hypermarket,8000
+CMP-0125,PrimeBazaar - Surat Unit 5,LOC-0057,21.11265,72.79322,Superstore,12000
+CMP-0126,MetroSphere - Surat Unit 6,LOC-0057,21.20437,72.87222,Hypermarket,12000
+CMP-0127,ApexRetail - Surat Unit 7,LOC-0057,21.16397,72.84551,Superstore,8000
+CMP-0128,NexusMart - Vadodara Unit 1,LOC-0058,22.31498,73.25817,Discount Hub,22000
+CMP-0129,UrbanTrend - Vadodara Unit 2,LOC-0058,22.33519,73.178,Discount Hub,16000
+CMP-0130,ApexRetail - Rajkot Unit 1,LOC-0059,22.28001,70.76204,Specialty Retail,16000
+CMP-0131,UrbanTrend - Rajkot Unit 2,LOC-0059,22.30899,70.78329,Discount Hub,8000
+CMP-0132,ApexRetail - Bhavnagar Unit 1,LOC-0060,21.72894,72.13574,Specialty Retail,12000
+CMP-0133,ZenithStores - Bhavnagar Unit 2,LOC-0060,21.73746,72.19408,Hypermarket,12000
+CMP-0134,UrbanTrend - Bhavnagar Unit 3,LOC-0060,21.78654,72.1517,Superstore,16000
+CMP-0135,NexusMart - Jamnagar Unit 1,LOC-0061,22.5077,70.05963,Hypermarket,12000
+CMP-0136,OmniHub - Gandhinagar Unit 1,LOC-0062,23.19407,72.67498,Specialty Retail,22000
+CMP-0137,NexusMart - Gandhinagar Unit 2,LOC-0062,23.22907,72.61097,Discount Hub,16000
+CMP-0138,ZenithStores - Junagadh Unit 1,LOC-0063,21.51744,70.43601,Specialty Retail,22000
+CMP-0139,ZenithStores - Junagadh Unit 2,LOC-0063,21.48763,70.48105,Hypermarket,8000
+CMP-0140,UrbanTrend - Anand Unit 1,LOC-0064,22.61224,72.89394,Specialty Retail,16000
+CMP-0141,NexusMart - Jaipur Unit 1,LOC-0065,26.92647,75.77103,Superstore,8000
+CMP-0142,PrimeBazaar - Jaipur Unit 2,LOC-0065,26.90022,75.77249,Specialty Retail,8000
+CMP-0143,ZenithStores - Jodhpur Unit 1,LOC-0066,26.2173,73.02551,Discount Hub,16000
+CMP-0144,OmniHub - Kota Unit 1,LOC-0067,25.19303,75.87156,Discount Hub,22000
+CMP-0145,ZenithStores - Bikaner Unit 1,LOC-0068,28.02164,73.30593,Specialty Retail,22000
+CMP-0146,MetroSphere - Ajmer Unit 1,LOC-0069,26.42721,74.62548,Hypermarket,12000
+CMP-0147,MetroSphere - Ajmer Unit 2,LOC-0069,26.46878,74.65242,Discount Hub,22000
+CMP-0148,UrbanTrend - Udaipur Unit 1,LOC-0070,24.56096,73.71498,Discount Hub,8000
+CMP-0149,ZenithStores - Udaipur Unit 2,LOC-0070,24.60418,73.67076,Hypermarket,16000
+CMP-0150,MetroSphere - Bhilwara Unit 1,LOC-0071,25.35428,74.61473,Hypermarket,22000
+CMP-0151,PrimeBazaar - Alwar Unit 1,LOC-0072,27.56726,76.61552,Hypermarket,22000
+CMP-0152,ZenithStores - Alwar Unit 2,LOC-0072,27.50788,76.59391,Hypermarket,12000
+CMP-0153,OmniHub - Central Delhi Unit 1,LOC-0073,28.6151,77.21549,Discount Hub,22000
+CMP-0154,PrimeBazaar - Central Delhi Unit 2,LOC-0073,28.59129,77.22496,Hypermarket,12000
+CMP-0155,MetroSphere - Central Delhi Unit 3,LOC-0073,28.57236,77.20735,Superstore,16000
+CMP-0156,ZenithStores - Central Delhi Unit 4,LOC-0073,28.58362,77.1927,Discount Hub,8000
+CMP-0157,NexusMart - Central Delhi Unit 5,LOC-0073,28.61508,77.18749,Superstore,12000
+CMP-0158,MetroSphere - Central Delhi Unit 6,LOC-0073,28.60429,77.23416,Hypermarket,22000
+CMP-0159,ApexRetail - South Delhi Unit 1,LOC-0074,28.52898,77.21919,Hypermarket,22000
+CMP-0160,NexusMart - South Delhi Unit 2,LOC-0074,28.51516,77.21155,Superstore,22000
+CMP-0161,UrbanTrend - South Delhi Unit 3,LOC-0074,28.57944,77.13651,Specialty Retail,16000
+CMP-0162,ZenithStores - South Delhi Unit 4,LOC-0074,28.52348,77.21273,Discount Hub,22000
+CMP-0163,ZenithStores - North Delhi Unit 1,LOC-0075,28.71372,77.17988,Superstore,22000
+CMP-0164,ApexRetail - North Delhi Unit 2,LOC-0075,28.7037,77.17276,Superstore,8000
+CMP-0165,MetroSphere - North Delhi Unit 3,LOC-0075,28.71491,77.19979,Discount Hub,16000
+CMP-0166,PrimeBazaar - North Delhi Unit 4,LOC-0075,28.72516,77.17904,Specialty Retail,8000
+CMP-0167,MetroSphere - North Delhi Unit 5,LOC-0075,28.7085,77.15841,Specialty Retail,22000
+CMP-0168,ZenithStores - East Delhi Unit 1,LOC-0076,28.61709,77.30526,Discount Hub,16000
+CMP-0169,MetroSphere - East Delhi Unit 2,LOC-0076,28.61738,77.30264,Discount Hub,22000
+CMP-0170,MetroSphere - East Delhi Unit 3,LOC-0076,28.67979,77.31718,Superstore,12000
+CMP-0171,OmniHub - East Delhi Unit 4,LOC-0076,28.61975,77.32543,Discount Hub,12000
+CMP-0172,PrimeBazaar - East Delhi Unit 5,LOC-0076,28.6177,77.24445,Discount Hub,8000
+CMP-0173,UrbanTrend - West Delhi Unit 1,LOC-0077,28.6282,77.06823,Discount Hub,22000
+CMP-0174,ZenithStores - West Delhi Unit 2,LOC-0077,28.64461,77.11546,Superstore,22000
+CMP-0175,NexusMart - West Delhi Unit 3,LOC-0077,28.69531,77.12317,Superstore,16000
+CMP-0176,PrimeBazaar - West Delhi Unit 4,LOC-0077,28.64792,77.13574,Hypermarket,22000
+CMP-0177,NexusMart - West Delhi Unit 5,LOC-0077,28.59812,77.12089,Discount Hub,8000
+CMP-0178,UrbanTrend - West Delhi Unit 6,LOC-0077,28.67267,77.07804,Superstore,22000
+CMP-0179,NexusMart - Dwarka Unit 1,LOC-0078,28.62069,77.05446,Discount Hub,16000
+CMP-0180,MetroSphere - Dwarka Unit 2,LOC-0078,28.58172,77.06182,Discount Hub,8000
+CMP-0181,PrimeBazaar - Dwarka Unit 3,LOC-0078,28.64887,77.05055,Specialty Retail,22000
+CMP-0182,MetroSphere - Dwarka Unit 4,LOC-0078,28.59831,77.03452,Discount Hub,8000
+CMP-0183,OmniHub - Dwarka Unit 5,LOC-0078,28.57085,77.06676,Hypermarket,12000
+CMP-0184,ApexRetail - Rohini Unit 1,LOC-0079,28.7281,77.05829,Hypermarket,22000
+CMP-0185,NexusMart - Rohini Unit 2,LOC-0079,28.73756,77.06847,Hypermarket,22000
+CMP-0186,ApexRetail - Rohini Unit 3,LOC-0079,28.75784,77.08244,Specialty Retail,8000
+CMP-0187,NexusMart - Rohini Unit 4,LOC-0079,28.73675,77.04975,Specialty Retail,8000
+CMP-0188,MetroSphere - Rohini Unit 5,LOC-0079,28.72503,77.04539,Specialty Retail,16000
+CMP-0189,ZenithStores - Rohini Unit 6,LOC-0079,28.75893,77.07542,Superstore,12000
+CMP-0190,OmniHub - Noida Extension (NCR) Unit 1,LOC-0080,28.56025,77.45504,Superstore,12000
+CMP-0191,ApexRetail - Noida Extension (NCR) Unit 2,LOC-0080,28.61719,77.44364,Hypermarket,22000
+CMP-0192,OmniHub - Noida Extension (NCR) Unit 3,LOC-0080,28.63022,77.41396,Superstore,22000
+CMP-0193,OmniHub - Noida Extension (NCR) Unit 4,LOC-0080,28.55218,77.38883,Superstore,12000
+CMP-0194,ZenithStores - Noida Extension (NCR) Unit 5,LOC-0080,28.6207,77.44966,Specialty Retail,22000
+CMP-0195,MetroSphere - Noida Extension (NCR) Unit 6,LOC-0080,28.58191,77.4403,Hypermarket,22000
+CMP-0196,MetroSphere - Noida Extension (NCR) Unit 7,LOC-0080,28.55516,77.49444,Superstore,8000
+CMP-0197,MetroSphere - Gurugram DLF (NCR) Unit 1,LOC-0081,28.46273,77.02933,Specialty Retail,22000
+CMP-0198,UrbanTrend - Gurugram DLF (NCR) Unit 2,LOC-0081,28.47764,77.03863,Specialty Retail,22000
+CMP-0199,PrimeBazaar - Gurugram DLF (NCR) Unit 3,LOC-0081,28.4651,77.00684,Specialty Retail,12000
+CMP-0200,ZenithStores - Gurugram DLF (NCR) Unit 4,LOC-0081,28.47129,77.07365,Discount Hub,8000
+CMP-0201,ApexRetail - Gurugram DLF (NCR) Unit 5,LOC-0081,28.49314,77.06643,Discount Hub,16000
+CMP-0202,OmniHub - Gurugram DLF (NCR) Unit 6,LOC-0081,28.44672,77.00186,Specialty Retail,16000
+CMP-0203,NexusMart - Gurugram DLF (NCR) Unit 7,LOC-0081,28.45636,77.02799,Discount Hub,16000
+CMP-0204,OmniHub - Lucknow Unit 1,LOC-0082,26.87405,80.90389,Hypermarket,22000
+CMP-0205,PrimeBazaar - Lucknow Unit 2,LOC-0082,26.88494,80.94225,Specialty Retail,12000
+CMP-0206,PrimeBazaar - Kanpur Unit 1,LOC-0083,26.43923,80.3066,Specialty Retail,12000
+CMP-0207,UrbanTrend - Kanpur Unit 2,LOC-0083,26.40853,80.35248,Superstore,16000
+CMP-0208,UrbanTrend - Kanpur Unit 3,LOC-0083,26.45173,80.29965,Superstore,8000
+CMP-0209,UrbanTrend - Kanpur Unit 4,LOC-0083,26.41752,80.32351,Hypermarket,16000
+CMP-0210,NexusMart - Ghaziabad Unit 1,LOC-0084,28.71093,77.44731,Specialty Retail,12000
+CMP-0211,NexusMart - Ghaziabad Unit 2,LOC-0084,28.63162,77.44766,Specialty Retail,16000
+CMP-0212,UrbanTrend - Ghaziabad Unit 3,LOC-0084,28.66238,77.38638,Discount Hub,12000
+CMP-0213,ApexRetail - Ghaziabad Unit 4,LOC-0084,28.66784,77.44803,Superstore,16000
+CMP-0214,OmniHub - Ghaziabad Unit 5,LOC-0084,28.68661,77.50002,Specialty Retail,12000
+CMP-0215,MetroSphere - Ghaziabad Unit 6,LOC-0084,28.69736,77.44708,Discount Hub,16000
+CMP-0216,UrbanTrend - Ghaziabad Unit 7,LOC-0084,28.64154,77.51813,Specialty Retail,8000
+CMP-0217,NexusMart - Agra Unit 1,LOC-0085,27.17818,78.00845,Superstore,12000
+CMP-0218,PrimeBazaar - Agra Unit 2,LOC-0085,27.1761,78.01305,Discount Hub,16000
+CMP-0219,NexusMart - Agra Unit 3,LOC-0085,27.17309,77.99376,Discount Hub,8000
+CMP-0220,OmniHub - Varanasi Unit 1,LOC-0086,25.30393,82.97308,Hypermarket,22000
+CMP-0221,MetroSphere - Varanasi Unit 2,LOC-0086,25.30401,82.95608,Specialty Retail,22000
+CMP-0222,PrimeBazaar - Varanasi Unit 3,LOC-0086,25.32026,82.96753,Specialty Retail,8000
+CMP-0223,ApexRetail - Prayagraj Unit 1,LOC-0087,25.4734,81.78003,Discount Hub,8000
+CMP-0224,OmniHub - Prayagraj Unit 2,LOC-0087,25.46309,81.87745,Specialty Retail,12000
+CMP-0225,UrbanTrend - Prayagraj Unit 3,LOC-0087,25.38397,81.83773,Hypermarket,22000
+CMP-0226,MetroSphere - Meerut Unit 1,LOC-0088,28.97521,77.67121,Discount Hub,8000
+CMP-0227,ApexRetail - Meerut Unit 2,LOC-0088,28.96505,77.67864,Hypermarket,8000
+CMP-0228,MetroSphere - Meerut Unit 3,LOC-0088,29.02831,77.72979,Discount Hub,8000
+CMP-0229,ApexRetail - Bareilly Unit 1,LOC-0089,28.39879,79.44844,Superstore,22000
+CMP-0230,MetroSphere - Aligarh Unit 1,LOC-0090,27.86917,78.07489,Discount Hub,12000
+CMP-0231,ZenithStores - Aligarh Unit 2,LOC-0090,27.90963,78.05745,Hypermarket,22000
+CMP-0232,ZenithStores - Moradabad Unit 1,LOC-0091,28.85282,78.76719,Specialty Retail,8000
+CMP-0233,UrbanTrend - Moradabad Unit 2,LOC-0091,28.82563,78.79097,Specialty Retail,12000
+CMP-0234,ZenithStores - Moradabad Unit 3,LOC-0091,28.84611,78.76418,Discount Hub,12000
+CMP-0235,NexusMart - Gorakhpur Unit 1,LOC-0092,26.78958,83.34617,Specialty Retail,16000
+CMP-0236,NexusMart - Gorakhpur Unit 2,LOC-0092,26.776,83.38803,Discount Hub,16000
+CMP-0237,NexusMart - Noida Unit 1,LOC-0093,28.52776,77.39915,Discount Hub,8000
+CMP-0238,UrbanTrend - Noida Unit 2,LOC-0093,28.50422,77.4141,Superstore,8000
+CMP-0239,NexusMart - Noida Unit 3,LOC-0093,28.53088,77.37793,Specialty Retail,12000
+CMP-0240,ApexRetail - Noida Unit 4,LOC-0093,28.56173,77.37339,Superstore,8000
+CMP-0241,PrimeBazaar - Noida Unit 5,LOC-0093,28.50029,77.35208,Superstore,12000
+CMP-0242,MetroSphere - Kolkata Unit 1,LOC-0094,22.58775,88.33189,Superstore,8000
+CMP-0243,MetroSphere - Kolkata Unit 2,LOC-0094,22.61647,88.31185,Superstore,12000
+CMP-0244,OmniHub - Kolkata Unit 3,LOC-0094,22.61501,88.36918,Specialty Retail,12000
+CMP-0245,NexusMart - Kolkata Unit 4,LOC-0094,22.57018,88.35028,Hypermarket,12000
+CMP-0246,NexusMart - Kolkata Unit 5,LOC-0094,22.58258,88.36296,Specialty Retail,12000
+CMP-0247,MetroSphere - Howrah Unit 1,LOC-0095,22.62338,88.26646,Hypermarket,12000
+CMP-0248,MetroSphere - Howrah Unit 2,LOC-0095,22.59956,88.25451,Hypermarket,12000
+CMP-0249,UrbanTrend - Howrah Unit 3,LOC-0095,22.59438,88.2713,Discount Hub,8000
+CMP-0250,UrbanTrend - Howrah Unit 4,LOC-0095,22.55305,88.2299,Hypermarket,22000
+CMP-0251,PrimeBazaar - Durgapur Unit 1,LOC-0096,23.53898,87.31617,Specialty Retail,8000
+CMP-0252,ZenithStores - Durgapur Unit 2,LOC-0096,23.5158,87.31236,Superstore,8000
+CMP-0253,PrimeBazaar - Asansol Unit 1,LOC-0097,23.68259,86.93891,Specialty Retail,22000
+CMP-0254,UrbanTrend - Asansol Unit 2,LOC-0097,23.65444,86.9573,Hypermarket,8000
+CMP-0255,ZenithStores - Asansol Unit 3,LOC-0097,23.64944,86.96261,Discount Hub,22000
+CMP-0256,NexusMart - Siliguri Unit 1,LOC-0098,26.68454,88.42103,Discount Hub,22000
+CMP-0257,NexusMart - Siliguri Unit 2,LOC-0098,26.73891,88.4017,Hypermarket,16000
+CMP-0258,OmniHub - Siliguri Unit 3,LOC-0098,26.75167,88.43694,Superstore,8000
+CMP-0259,OmniHub - Kharagpur Unit 1,LOC-0100,22.37136,87.18598,Specialty Retail,22000
+CMP-0260,OmniHub - Haldia Unit 1,LOC-0101,22.03471,88.05418,Specialty Retail,22000
+CMP-0261,OmniHub - Haldia Unit 2,LOC-0101,22.06735,88.08274,Discount Hub,8000
+CMP-0262,NexusMart - Bhubaneswar Unit 1,LOC-0102,20.27796,85.82917,Superstore,22000
+CMP-0263,ZenithStores - Bhubaneswar Unit 2,LOC-0102,20.27722,85.80921,Superstore,22000
+CMP-0264,MetroSphere - Bhubaneswar Unit 3,LOC-0102,20.26093,85.80142,Discount Hub,22000
+CMP-0265,ZenithStores - Bhubaneswar Unit 4,LOC-0102,20.26231,85.8001,Hypermarket,16000
+CMP-0266,MetroSphere - Cuttack Unit 1,LOC-0103,20.48884,85.85907,Specialty Retail,16000
+CMP-0267,ApexRetail - Cuttack Unit 2,LOC-0103,20.52831,85.89513,Discount Hub,8000
+CMP-0268,PrimeBazaar - Rourkela Unit 1,LOC-0104,22.26502,84.83214,Hypermarket,8000
+CMP-0269,NexusMart - Berhampur Unit 1,LOC-0105,19.33251,84.77971,Specialty Retail,12000
+CMP-0270,NexusMart - Sambalpur Unit 1,LOC-0106,21.46995,84.0452,Specialty Retail,8000
+CMP-0271,ZenithStores - Sambalpur Unit 2,LOC-0106,21.4645,84.00993,Specialty Retail,22000
+CMP-0272,NexusMart - Puri Unit 1,LOC-0107,19.79592,85.83033,Specialty Retail,16000
+CMP-0273,MetroSphere - Puri Unit 2,LOC-0107,19.85777,85.81553,Hypermarket,12000
+CMP-0274,ZenithStores - Indore Unit 1,LOC-0109,22.76491,75.87539,Superstore,8000
+CMP-0275,MetroSphere - Indore Unit 2,LOC-0109,22.70554,75.87351,Specialty Retail,8000
+CMP-0276,PrimeBazaar - Indore Unit 3,LOC-0109,22.74391,75.87325,Specialty Retail,12000
+CMP-0277,PrimeBazaar - Indore Unit 4,LOC-0109,22.68034,75.83952,Discount Hub,8000
+CMP-0278,UrbanTrend - Bhopal Unit 1,LOC-0110,23.25371,77.41074,Specialty Retail,8000
+CMP-0279,ApexRetail - Bhopal Unit 2,LOC-0110,23.27542,77.41704,Specialty Retail,16000
+CMP-0280,MetroSphere - Bhopal Unit 3,LOC-0110,23.22652,77.4221,Specialty Retail,8000
+CMP-0281,ApexRetail - Bhopal Unit 4,LOC-0110,23.27516,77.42659,Superstore,22000
+CMP-0282,ApexRetail - Jabalpur Unit 1,LOC-0111,23.20852,80.00725,Hypermarket,8000
+CMP-0283,OmniHub - Gwalior Unit 1,LOC-0112,26.22978,78.18105,Superstore,22000
+CMP-0284,ZenithStores - Gwalior Unit 2,LOC-0112,26.17678,78.19354,Discount Hub,16000
+CMP-0285,ApexRetail - Gwalior Unit 3,LOC-0112,26.22349,78.18959,Specialty Retail,16000
+CMP-0286,MetroSphere - Ujjain Unit 1,LOC-0113,23.14458,75.76147,Hypermarket,8000
+CMP-0287,ApexRetail - Ujjain Unit 2,LOC-0113,23.20283,75.78751,Superstore,8000
+CMP-0288,UrbanTrend - Ujjain Unit 3,LOC-0113,23.19354,75.78921,Hypermarket,16000
+CMP-0289,UrbanTrend - Sagar Unit 1,LOC-0114,23.83954,78.76126,Discount Hub,22000
+CMP-0290,ZenithStores - Dewas Unit 1,LOC-0115,22.9547,76.0558,Discount Hub,16000
+CMP-0291,ApexRetail - Dewas Unit 2,LOC-0115,22.95604,76.04254,Hypermarket,16000
+CMP-0292,NexusMart - Satna Unit 1,LOC-0116,24.59277,80.83775,Specialty Retail,22000
+CMP-0293,UrbanTrend - Ratlam Unit 1,LOC-0117,23.31953,75.06809,Specialty Retail,8000
+CMP-0294,ApexRetail - Ratlam Unit 2,LOC-0117,23.30913,75.03203,Discount Hub,8000
